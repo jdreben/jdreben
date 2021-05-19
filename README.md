@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- :construction_worker_man: I'm currently working on: [Sophya](https://shocktop.us/)
 - :book: I'm currently knowledgeable in: [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/), and [English](https://en.wikipedia.org/wiki/English_language)
 - 🌱 I’m currently learning: [Rust](https://www.rust-lang.org/), [TypeScript](https://www.typescriptlang.org/), and [Español Puertorriqueño](https://es.wikipedia.org/wiki/Espa%C3%B1ol_puertorrique%C3%B1o)
 - 👯 I’m looking to collaborate on: [Interesting](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science) or [novel](https://en.wikipedia.org/wiki/Novel) [problems](https://www.merriam-webster.com/dictionary/opportunity)
