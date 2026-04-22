@@ -1,0 +1,44 @@
+baseURL = "https://jdreben.github.io/jdreben/"
+languageCode = "en-us"
+title = "James Dreben"
+theme = "james"
+paginate = 10
+enableRobotsTXT = true
+enableGitInfo = true
+copyright = "James Dreben"
+
+[params]
+  author      = "James Dreben"
+  description = "Bitsmith. Bytewright. Codemonger. Software engineer in San Juan, PR."
+  tagline     = "Software developer · Startup evangelist · Aspiring writer · Lifelong student"
+  location    = "San Juan, Puerto Rico"
+  github      = "https://github.com/jdreben"
+  mastodon    = "https://mastodon.world/@Jdreben"
+  bluesky     = "https://bsky.app/profile/jdreben.omg.lol"
+  linkedin    = "https://www.linkedin.com/in/jamesdreben/"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name   = "Writing"
+    url    = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name   = "About"
+    url    = "/about/"
+    weight = 2
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style              = "dracula"
+    lineNos            = false
+    noClasses          = true
+    guessSyntax        = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
