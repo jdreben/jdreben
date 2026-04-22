@@ -6,12 +6,7 @@
 
 *Software developer &nbsp;·&nbsp; Startup evangelist &nbsp;·&nbsp; Aspiring writer &nbsp;·&nbsp; Lifelong student*
 
-[![Deploy](https://github.com/jdreben/jdreben/actions/workflows/deploy.yml/badge.svg)](https://github.com/jdreben/jdreben/actions/workflows/deploy.yml)
-[![Site](https://img.shields.io/website?url=https%3A%2F%2Fjdreben.github.io&label=jdreben.github.io&style=flat-square)](https://jdreben.github.io)
-
-[![Blog](https://img.shields.io/badge/blog-jdreben.omg.lol-6366f1?style=flat-square&logo=rss&logoColor=white)](https://jdreben.omg.lol)
 [![Mastodon](https://img.shields.io/badge/mastodon-%40Jdreben-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.world/@Jdreben)
-[![Bluesky](https://img.shields.io/badge/bluesky-jdreben.omg.lol-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jdreben.omg.lol)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jamesdreben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesdreben/)
 
 </div>
@@ -20,7 +15,7 @@
 
 ## About
 
-Harvard CS grad and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as a founding engineer and CTO at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
+Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as the founding engineer and chief technology officer at a venture-backed machine learning startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
 
 Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
 
@@ -30,7 +25,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
-| 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering, AI tooling, WP Engine ecosystem |
+| 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering |
 | 2022 – 2024 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
 | 2021 – 2022 | Software Engineer | *Virtual-first workspace company* | Real-time collaboration, async infrastructure |
 | 2020 – 2021 | Software Engineer | *AI application startup* | LLM tooling, inference pipelines, product engineering |
@@ -39,7 +34,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 | — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
 | — | Business Technology Scholar | **Deloitte** | Enterprise digital transformation consulting |
 
-> 🏆 **Highlight:** Co-founded [Zoba](https://craft.co/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Grew from founding engineer to CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
+> 🏆 **Highlight:** Founding Engineer at [Zoba](https://www.crunchbase.com/organization/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Founding Engineer and CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
 
 ---
 
@@ -61,6 +56,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 
 ### AI & Machine Learning
 
@@ -96,7 +92,7 @@ Hands-on experience owning reliability across the full system lifecycle: designi
 A decade of shipping production web applications across multiple stacks — from Hugo static sites and SvelteKit SPAs to Python backends and TypeScript APIs. Experience leading frontend architecture decisions, establishing CI/CD pipelines, and scaling systems under real production traffic.
 
 ### 🚀 Startup Engineering
-Three times a startup engineer, once a CTO. Built from zero to acquisition at Zoba; contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
+Three times a startup engineer, once a CTO. Built from zero to acquisition at Zoba. Contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
 
 ---
 
@@ -114,22 +110,10 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ## Currently
 
-- 🔴 Engineering with the **WP Engine** ecosystem at **Red Ventures**
+- 🔴 Engineering at **Red Ventures**
 - 📖 Going deeper on **SvelteKit** and **Kotlin**
 - 🦣 Posting on the fediverse at [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben)
 - ✍️ Writing at [jdreben.omg.lol](https://jdreben.omg.lol)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdreben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdreben&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
