@@ -6,6 +6,9 @@
 
 *Software developer &nbsp;·&nbsp; Startup evangelist &nbsp;·&nbsp; Aspiring writer &nbsp;·&nbsp; Lifelong student*
 
+[![Deploy](https://github.com/jdreben/jdreben/actions/workflows/deploy.yml/badge.svg)](https://github.com/jdreben/jdreben/actions/workflows/deploy.yml)
+[![Site](https://img.shields.io/website?url=https%3A%2F%2Fjdreben.github.io&label=jdreben.github.io&style=flat-square)](https://jdreben.github.io)
+
 [![Blog](https://img.shields.io/badge/blog-jdreben.omg.lol-6366f1?style=flat-square&logo=rss&logoColor=white)](https://jdreben.omg.lol)
 [![Mastodon](https://img.shields.io/badge/mastodon-%40Jdreben-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.world/@Jdreben)
 [![Bluesky](https://img.shields.io/badge/bluesky-jdreben.omg.lol-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jdreben.omg.lol)
