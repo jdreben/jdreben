@@ -1,21 +1,28 @@
 {{ define "main" }}
-<article class="post">
+<article class="post h-entry">
   <header class="post-header">
-    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+    <time class="post-date dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
       {{ .Date.Format "January 2, 2006" }}
     </time>
-    <h1 class="post-title">{{ .Title }}</h1>
+    {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
+    <time class="post-updated dt-updated" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" hidden></time>
+    {{ end }}
+    <h1 class="post-title p-name">{{ .Title }}</h1>
     {{ with .Description }}
-    <p class="post-description">{{ . }}</p>
+    <p class="post-description p-summary">{{ . }}</p>
     {{ end }}
     {{ with .Params.tags }}
     <div class="post-tags">
-      {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+      {{ range . }}<span class="tag p-category">{{ . }}</span>{{ end }}
     </div>
     {{ end }}
+    <a class="u-url" href="{{ .Permalink }}" hidden>{{ .Permalink }}</a>
+    <span class="p-author h-card" hidden>
+      <a class="p-name u-url" href="{{ .Site.BaseURL }}about/">{{ .Site.Params.author }}</a>
+    </span>
   </header>
 
-  <div class="post-content">
+  <div class="post-content e-content">
     {{ .Content }}
   </div>
 

@@ -1,4 +1,4 @@
-baseURL = "https://jdreben.github.io/"
+baseURL = "https://jdreben.github.io/jdreben/"
 languageCode = "en-us"
 title = "James Dreben"
 theme = "james"
@@ -17,6 +17,12 @@ copyright = "James Dreben"
   mastodon    = "https://mastodon.world/@Jdreben"
   bluesky     = "https://bsky.app/profile/jdreben.omg.lol"
   linkedin    = "https://www.linkedin.com/in/jamesdreben/"
+  homepage    = "https://jdreben.omg.lol"
+
+  # IndieWeb endpoints. Leave blank to disable.
+  # Webmention: sign up at https://webmention.io/, get the endpoints, and paste here.
+  webmention_url = ""
+  pingback_url   = ""
 
 [taxonomies]
   tag = "tags"
