@@ -2,7 +2,8 @@ baseURL = "https://jdreben.github.io/jdreben/"
 languageCode = "en-us"
 title = "James Dreben"
 theme = "james"
-paginate = 10
+[pagination]
+  pagerSize = 10
 enableRobotsTXT = true
 enableGitInfo = true
 copyright = "James Dreben"
