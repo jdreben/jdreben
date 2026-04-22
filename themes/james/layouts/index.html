@@ -1,29 +1,38 @@
 {{ define "main" }}
-<section class="hero">
+<section class="hero h-card">
   <div class="hero-inner">
-    <p class="hero-location">San Juan, Puerto Rico</p>
-    <h1>James Dreben</h1>
-    <p class="hero-tagline">{{ .Site.Params.tagline }}</p>
+    <p class="hero-location p-locality">{{ .Site.Params.location }}</p>
+    <h1 class="p-name">{{ .Site.Params.author }}</h1>
+    <p class="hero-tagline p-note">{{ .Site.Params.tagline }}</p>
     {{ with .Content }}
     <div class="hero-bio">{{ . }}</div>
     {{ end }}
+    <a class="u-url u-uid" href="{{ .Site.BaseURL }}" hidden>{{ .Site.BaseURL }}</a>
+    {{ with .Site.Params.github   }}<a class="u-url" rel="me" href="{{ . }}" hidden>GitHub</a>{{ end }}
+    {{ with .Site.Params.mastodon }}<a class="u-url" rel="me" href="{{ . }}" hidden>Mastodon</a>{{ end }}
+    {{ with .Site.Params.bluesky  }}<a class="u-url" rel="me" href="{{ . }}" hidden>Bluesky</a>{{ end }}
+    {{ with .Site.Params.linkedin }}<a class="u-url" rel="me" href="{{ . }}" hidden>LinkedIn</a>{{ end }}
   </div>
 </section>
 
 <section class="recent-posts">
   <h2 class="section-label">Recent Writing</h2>
-  <div class="post-list">
+  <div class="post-list h-feed">
+    <span class="p-name" hidden>Recent Writing — {{ .Site.Title }}</span>
     {{ range (where .Site.RegularPages "Section" "posts") | first 6 }}
-    <article class="post-card">
-      <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+    <article class="post-card h-entry">
+      <time class="post-date dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{ .Date.Format "Jan 2, 2006" }}
       </time>
-      <h3 class="post-title">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <h3 class="post-title p-name">
+        <a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a>
       </h3>
       {{ with .Description }}
-      <p class="post-excerpt">{{ . }}</p>
+      <p class="post-excerpt p-summary">{{ . }}</p>
       {{ end }}
+      <span class="p-author h-card" hidden>
+        <a class="p-name u-url" href="{{ .Site.BaseURL }}about/">{{ .Site.Params.author }}</a>
+      </span>
     </article>
     {{ end }}
   </div>

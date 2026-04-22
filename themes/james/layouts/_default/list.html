@@ -4,23 +4,27 @@
   {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
 </div>
 
-<div class="post-list">
+<div class="post-list h-feed">
+  <span class="p-name" hidden>{{ .Title }} — {{ .Site.Title }}</span>
   {{ range .Pages }}
-  <article class="post-card">
-    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+  <article class="post-card h-entry">
+    <time class="post-date dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
       {{ .Date.Format "Jan 2, 2006" }}
     </time>
-    <h2 class="post-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <h2 class="post-title p-name">
+      <a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     {{ with .Description }}
-    <p class="post-excerpt">{{ . }}</p>
+    <p class="post-excerpt p-summary">{{ . }}</p>
     {{ end }}
     {{ with .Params.tags }}
     <div class="post-tags">
-      {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+      {{ range . }}<span class="tag p-category">{{ . }}</span>{{ end }}
     </div>
     {{ end }}
+    <span class="p-author h-card" hidden>
+      <a class="p-name u-url" href="{{ .Site.BaseURL }}about/">{{ .Site.Params.author }}</a>
+    </span>
   </article>
   {{ end }}
 </div>
