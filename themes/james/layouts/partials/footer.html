@@ -9,4 +9,10 @@
       <a href="/index.xml" title="RSS feed">RSS</a>
     </nav>
   </div>
+  {{ $sha := os.Getenv "GITHUB_SHA" }}
+  {{ $shortSha := cond (gt (len $sha) 7) (substr $sha 0 7) $sha }}
+  <div class="build-info">
+    Last built {{ now.Format "Jan 2, 2006 · 15:04 MST" }}{{ with $shortSha }} ·
+    <a href="https://github.com/jdreben/jdreben/commit/{{ $sha }}" rel="noopener"><code>{{ . }}</code></a>{{ end }}
+  </div>
 </footer>
