@@ -43,6 +43,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          HUGO_PARAM_COMMIT: ${{ github.sha }}
           TZ: America/Puerto_Rico
         run: |
           hugo \
