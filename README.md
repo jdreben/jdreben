@@ -9,7 +9,6 @@
 [![Blog](https://img.shields.io/badge/blog-jdreben.omg.lol-6366f1?style=flat-square&logo=rss&logoColor=white)](https://jdreben.omg.lol)
 [![Mastodon](https://img.shields.io/badge/mastodon-%40Jdreben-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.world/@Jdreben)
 [![Bluesky](https://img.shields.io/badge/bluesky-jdreben.omg.lol-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jdreben.omg.lol)
-[![Medium](https://img.shields.io/badge/medium-jamesdreben-000000?style=flat-square&logo=medium&logoColor=white)](https://jamesdreben.medium.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jamesdreben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesdreben/)
 
 </div>
@@ -20,7 +19,7 @@
 
 Harvard CS grad and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as a founding engineer and CTO at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
 
-Currently engineering from **San Juan, Puerto Rico** 🇵🇷, where I build freight logistics infrastructure at [Mvmnt](https://mvmnt.io) and contribute to the publisher tech ecosystem at [Red Ventures](https://redventures.com).
+Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
 
 ---
 
@@ -29,10 +28,9 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷, where I build fre
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
 | 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering, AI tooling, WP Engine ecosystem |
-| 2024 – present | Software Engineer | **Mvmnt** | Digital freight marketplace platform |
-| 2022 – 2024 | Software Engineer | **Pocus** | Revenue intelligence, B2B product-led growth SaaS |
-| 2021 – 2022 | Software Engineer | **SoWork** | Async-first virtual workspace infrastructure |
-| 2020 – 2021 | Software Engineer | **ChipBrain** | AI-powered application development |
+| 2022 – 2024 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
+| 2021 – 2022 | Software Engineer | *Virtual-first workspace company* | Real-time collaboration, async infrastructure |
+| 2020 – 2021 | Software Engineer | *AI application startup* | LLM tooling, inference pipelines, product engineering |
 | 2017 – 2024 | Founding Engineer → CTO | **Zoba** *(acquired by Marti, Feb 2024)* | ML models predicting human mobility in cities |
 | 2016 | Productivity Technology Lead | **Quorum** | Internal tooling and workflow automation |
 | — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
@@ -86,7 +84,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷, where I build fre
 ## Areas of Expertise
 
 ### 🤖 AI & Machine Learning
-Built production ML systems at Zoba that modeled and predicted human movement patterns across cities — powering vehicle routing and fleet optimization for micromobility operators at scale. Studied reinforcement learning at Harvard. Continued work in applied AI tooling at ChipBrain and Red Ventures.
+Built production ML systems predicting human movement patterns across cities — powering vehicle routing and fleet optimization at scale. Studied reinforcement learning at Harvard. Applied AI and LLM tooling at multiple startups before it became fashionable.
 
 ### ⚙️ Site Reliability Engineering
 Hands-on experience owning reliability across the full system lifecycle: designing fault-tolerant architectures, building observability pipelines, driving incident response, and leading post-mortem culture. Comfortable owning on-call rotations and capacity planning at scale.
@@ -95,7 +93,7 @@ Hands-on experience owning reliability across the full system lifecycle: designi
 A decade of shipping production web applications across multiple stacks — from Hugo static sites and SvelteKit SPAs to Python backends and TypeScript APIs. Experience leading frontend architecture decisions, establishing CI/CD pipelines, and scaling systems under real production traffic.
 
 ### 🚀 Startup Engineering
-Three times a startup engineer, once a CTO. Built from zero to acquisition at Zoba; contributed core infrastructure at early-stage companies including SoWork, ChipBrain, and Pocus. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
+Three times a startup engineer, once a CTO. Built from zero to acquisition at Zoba; contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
 
 ---
 
@@ -113,11 +111,10 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ## Currently
 
-- 🛤️ Building digital freight infrastructure at **Mvmnt**
 - 🔴 Engineering with the **WP Engine** ecosystem at **Red Ventures**
 - 📖 Going deeper on **SvelteKit** and **Kotlin**
 - 🦣 Posting on the fediverse at [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben)
-- ✍️ Occasionally writing at [jamesdreben.medium.com](https://jamesdreben.medium.com)
+- ✍️ Writing at [jdreben.omg.lol](https://jdreben.omg.lol)
 
 ---
 
@@ -125,7 +122,7 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 <div align="center">
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdreben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdreben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdreben&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -135,7 +132,7 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ## Education
 
-🎓 **Harvard University** — B.A., Computer Science *(Class of 2017)*
+🎓 **Harvard University** — Computer Science *(Class of 2017)*
 
 Coursework spanning machine learning, algorithms, reinforcement learning, and systems programming.
 
@@ -148,8 +145,8 @@ Coursework spanning machine learning, algorithms, reinforcement learning, and sy
 | 🌐 Blog | [jdreben.omg.lol](https://jdreben.omg.lol) |
 | 🦣 Mastodon | [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben) |
 | 🦋 Bluesky | [@jdreben.omg.lol](https://bsky.app/profile/jdreben.omg.lol) |
-| ✍️ Medium | [jamesdreben.medium.com](https://jamesdreben.medium.com) |
 | 💼 LinkedIn | [linkedin.com/in/jamesdreben](https://www.linkedin.com/in/jamesdreben/) |
+| 💻 GitHub | [github.com/jdreben](https://github.com/jdreben) |
 
 ---
 
