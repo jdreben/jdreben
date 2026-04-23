@@ -114,7 +114,7 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ## Currently
 
-- 🔴 Engineering with the **WP Engine** ecosystem at **Red Ventures**
+- 🔴 Engineering at **Red Ventures**
 - 📖 Going deeper on **SvelteKit** and **Kotlin**
 - 🦣 Posting on the fediverse at [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben)
 - ✍️ Writing at [jdreben.omg.lol](https://jdreben.omg.lol)
