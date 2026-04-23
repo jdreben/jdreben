@@ -30,7 +30,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
-| 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering, AI tooling, WP Engine ecosystem |
+| 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering |
 | 2022 – 2024 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
 | 2021 – 2022 | Software Engineer | *Virtual-first workspace company* | Real-time collaboration, async infrastructure |
 | 2020 – 2021 | Software Engineer | *AI application startup* | LLM tooling, inference pipelines, product engineering |
