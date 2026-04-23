@@ -117,18 +117,6 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdreben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdreben&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Education
 
 🎓 **Harvard University** — Computer Science *(Class of 2017)*
