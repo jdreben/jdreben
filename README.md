@@ -35,7 +35,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 | — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
 | — | Business Technology Scholar | **Deloitte** | Enterprise digital transformation consulting |
 
-> 🏆 **Highlight:** Co-founded [Zoba](https://craft.co/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Grew from founding engineer to CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
+> 🏆 **Highlight:** Founding Engineer at [Zoba](https://craft.co/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Founding engineer and CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
 
 ---
 
