@@ -16,7 +16,7 @@
 
 ## About
 
-Harvard CS grad and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as a founding engineer and CTO at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
+Harvard CS grad and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as a founding Engineer and CTO at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
 
 Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
 
@@ -35,7 +35,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 | — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
 | — | Business Technology Scholar | **Deloitte** | Enterprise digital transformation consulting |
 
-> 🏆 **Highlight:** Founding Engineer at [Zoba](https://www.crunchbase.com/organization/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Founding engineer and CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
+> 🏆 **Highlight:** Founding Engineer at [Zoba](https://www.crunchbase.com/organization/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Founding Engineer and CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
 
 ---
 
