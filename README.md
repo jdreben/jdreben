@@ -7,7 +7,6 @@
 *Software developer &nbsp;·&nbsp; Startup evangelist &nbsp;·&nbsp; Aspiring writer &nbsp;·&nbsp; Lifelong student*
 
 [![Mastodon](https://img.shields.io/badge/mastodon-%40Jdreben-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.world/@Jdreben)
-[![Bluesky](https://img.shields.io/badge/bluesky-jdreben.omg.lol-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jdreben.omg.lol)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jamesdreben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesdreben/)
 
 </div>
