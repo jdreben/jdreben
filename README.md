@@ -15,7 +15,7 @@
 
 ## About
 
-Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as a founding Engineer and CTO at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
+Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as the founding engineer and chief technology officer at a venture-backed ML startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
 
 Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
 
