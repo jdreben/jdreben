@@ -96,14 +96,12 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-| Repo | Description | Stack |
+| Project | Description | Stack |
 |------|-------------|-------|
-| [zoba](https://github.com/jdreben/zoba) | Early ML research powering Zoba's urban mobility prediction engine | Python · Jupyter |
+| Zoba | Early ML research powering Zoba's urban mobility prediction engine | Python · Jupyter |
 | [cs227r\_Final\_Project](https://github.com/jdreben/cs227r_Final_Project) | Harvard reinforcement learning final project | Python · HTML |
-| [jamesdreben.com](https://github.com/jdreben/jamesdreben.com) | Personal site built with Hugo | Hugo · HTML |
-| [refresher](https://github.com/jdreben/refresher) | Python & TypeScript fundamentals refresher — always be learning | Python · TypeScript |
 | [AudioSuite](https://github.com/jdreben/AudioSuite) | Early audio processing application (the origin story, circa 2014) | Java |
 
 ---
