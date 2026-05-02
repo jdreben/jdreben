@@ -100,7 +100,7 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 
 | Project | Description | Stack |
 |------|-------------|-------|
-| [dpdap](jdreben.github.io/dpdap/) | Applied differential privacy work | Python · Rust |
+| [dpdap](https://jdreben.github.io/dpdap/) | Applied differential privacy work | Python · Rust |
 | [cs227r\_Final\_Project](https://github.com/jdreben/cs227r_Final_Project) | Harvard reinforcement learning final project | Python · HTML |
 | [AudioSuite](https://github.com/jdreben/AudioSuite) | Early audio processing application (the origin story, circa 2014) | Java |
 
