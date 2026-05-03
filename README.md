@@ -15,7 +15,7 @@
 
 ## About
 
-Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as the founding engineer and chief technology officer at a venture-backed machine learning startup (acquired 2024), shipped at enterprise scale, and worked across the stack at companies ranging from seed-stage to Fortune 500.
+Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as the founding engineer and chief technology officer at a venture-backed machine learning startup (acquired 2024), shipped at enterprise scale, and worked across the stack.
 
 Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
 
@@ -26,11 +26,12 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
 | 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering |
-| 2022 – 2024 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
-| 2021 – 2022 | Software Engineer | *Virtual-first workspace company* | Real-time collaboration, async infrastructure |
+| 2023 – 2024 | Software Engineer | *Transportation management startup* | TMS tooling, SPA web development |
+| 2022 – 2023 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
+| 2021 – 2022 | Software Engineer | *Virtual-first workspace startup* | Real-time collaboration, async infrastructure |
 | 2020 – 2021 | Software Engineer | *AI application startup* | LLM tooling, inference pipelines, product engineering |
-| 2017 – 2024 | Founding Engineer → CTO | **Zoba** *(acquired by Marti, Feb 2024)* | ML models predicting human mobility in cities |
-| 2016 | Productivity Technology Lead | **Quorum** | Internal tooling and workflow automation |
+| 2017 – 2020 | Founding Engineer & CTO | **Zoba** *(acquired by Marti, Feb 2024)* | ML models predicting human mobility in cities |
+| 2016 | Software Engineer | **Quorum** | Political data analytics |
 | — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
 | — | Business Technology Scholar | **Deloitte** | Enterprise digital transformation consulting |
 
@@ -83,7 +84,7 @@ Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](
 ## Areas of Expertise
 
 ### 🤖 AI & Machine Learning
-Built production ML systems predicting human movement patterns across cities — powering vehicle routing and fleet optimization at scale. Studied reinforcement learning at Harvard. Applied AI and LLM tooling at multiple startups before it became fashionable.
+Built production ML systems predicting human movement patterns across cities — powering vehicle rebalancing and fleet optimization at scale. Studied reinforcement learning at Harvard. Applied AI and LLM tooling at multiple startups before it became fashionable.
 
 ### ⚙️ Site Reliability Engineering
 Hands-on experience owning reliability across the full system lifecycle: designing fault-tolerant architectures, building observability pipelines, driving incident response, and leading post-mortem culture. Comfortable owning on-call rotations and capacity planning at scale.
@@ -92,7 +93,7 @@ Hands-on experience owning reliability across the full system lifecycle: designi
 A decade of shipping production web applications across multiple stacks — from Hugo static sites and SvelteKit SPAs to Python backends and TypeScript APIs. Experience leading frontend architecture decisions, establishing CI/CD pipelines, and scaling systems under real production traffic.
 
 ### 🚀 Startup Engineering
-Three times a startup engineer, once a CTO. Built from zero to acquisition at Zoba. Contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
+Many times a startup engineer, once a CTO. Built from zero to revenue at Zoba. Contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
 
 ---
 
@@ -101,8 +102,8 @@ Three times a startup engineer, once a CTO. Built from zero to acquisition at Zo
 | Project | Description | Stack |
 |------|-------------|-------|
 | [dpdap](https://jdreben.github.io/dpdap/) | Applied differential privacy work | Python · Rust |
-| [cs227r\_Final\_Project](https://github.com/jdreben/cs227r_Final_Project) | Harvard reinforcement learning final project | Python · HTML |
-| [AudioSuite](https://github.com/jdreben/AudioSuite) | Early audio processing application (the origin story, circa 2014) | Java |
+| [cs227r\_Final\_Project](https://github.com/jdreben/cs227r_Final_Project) | Harvard reinforcement learning final project | Python · R |
+| [AudioSuite](https://github.com/jdreben/AudioSuite) | Early audio processing application (~2014) | Java |
 
 ---
 
@@ -127,7 +128,7 @@ Coursework spanning machine learning, algorithms, reinforcement learning, and sy
 
 | Platform | Handle |
 |----------|--------|
-| 🌐 Blog | [jdreben.omg.lol](https://jdreben.omg.lol) |
+| 🏡 Home | [jdreben.omg.lol](https://jdreben.omg.lol) |
 | 🦣 Mastodon | [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben) |
 | 🦋 Bluesky | [@jdreben.omg.lol](https://bsky.app/profile/jdreben.omg.lol) |
 | 💼 LinkedIn | [linkedin.com/in/jamesdreben](https://www.linkedin.com/in/jamesdreben/) |
