@@ -1,145 +1,40 @@
-<div align="center">
-
 # James Dreben
 
-**Bitsmith &nbsp;·&nbsp; Bytewright &nbsp;·&nbsp; Codemonger**
+Software engineer in San Juan, PR. Harvard CS, class of 2017.
 
-*Software developer &nbsp;·&nbsp; Startup evangelist &nbsp;·&nbsp; Aspiring writer &nbsp;·&nbsp; Lifelong student*
+Right now I'm researching differential privacy: what it would take to make DP claims on public data releases and trained models actually checkable from the outside. Two projects I'm working on in that direction are 1) signed receipts and a conformance probe for aggregate releases, and 2) the same idea applied to trained models and synthetic data. Both are early. Most recent writing on it: [Two numbers from VaultGemma](https://jdreben.github.io/writing/pre-registered-empirical-privacy/).
 
-[![Mastodon](https://img.shields.io/badge/mastodon-%40Jdreben-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.world/@Jdreben)
-[![LinkedIn](https://img.shields.io/badge/linkedin-jamesdreben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesdreben/)
-
-</div>
-
----
-
-## About
-
-Harvard computer science graduate and software engineer with a decade of experience at the intersection of **artificial intelligence**, **site reliability engineering**, and **full-stack web development**. I've built systems from scratch as the founding engineer and chief technology officer at a venture-backed machine learning startup (acquired 2024), shipped at enterprise scale, and worked across the stack.
-
-Currently engineering from **San Juan, Puerto Rico** 🇵🇷 at [Red Ventures](https://redventures.com).
-
----
+Mostly Python, TypeScript, and Rust at the moment.
 
 ## Career
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
-| 2024 – present | Software Engineer | **Red Ventures** | Full-stack engineering |
-| 2023 – 2024 | Software Engineer | *Transportation management startup* | TMS tooling, SPA web development |
-| 2022 – 2023 | Software Engineer | *Revenue intelligence startup* | PLG tooling, product analytics, B2B SaaS |
-| 2021 – 2022 | Software Engineer | *Virtual-first workspace startup* | Real-time collaboration, async infrastructure |
-| 2020 – 2021 | Software Engineer | *AI application startup* | LLM tooling, inference pipelines, product engineering |
-| 2017 – 2020 | Founding Engineer & CTO | **Zoba** *(acquired by Marti, Feb 2024)* | ML models predicting human mobility in cities |
-| 2016 | Software Engineer | **Quorum** | Political data analytics |
-| — | Technology Intern | **Lockheed Martin** | Defense & aerospace systems |
-| — | Business Technology Scholar | **Deloitte** | Enterprise digital transformation consulting |
+| 2024 – 2026 | Software Engineer | Red Ventures | Education portfolio engineering, AWS, shared frontend platform |
+| 2023 – 2024 | Software Engineer | MVMNT | Freight TMS frontend, TypeScript, Svelte, Tailwind, AWS Cognito |
+| 2022 | Software Engineer | Pocus | PLG tooling, NestJS, Prisma, customer-facing APIs |
+| 2021 – 2022 | Software Engineer | ChipBrain | AWS Transcribe pipelines, Django, ML-enabled product engineering |
+| 2021 | Software Engineer | SoWork | Real-time collaboration, async infrastructure |
+| 2021 – present | Founder | Pseudorandom Technologies | Freelance ML / full stack applications & consulting |
+| 2017 – 2020 | Founding Engineer & CTO | Zoba | ML for urban mobility, React, Mapbox, Python, Django, PostgreSQL, AWS |
+| 2014 – 2016 | Productivity Tech Lead | Quorum | Full-stack Python / Django, political data tools |
+|  | Technology Intern | Lockheed Martin | Defense & aerospace systems |
+|  | Business Technology Scholar | Deloitte | Enterprise digital transformation consulting |
 
-> 🏆 **Highlight:** Founding Engineer at [Zoba](https://www.crunchbase.com/organization/zoba), a machine learning startup that built predictive models for urban mobility, powering fleet optimization for micromobility operators worldwide. Founding Engineer and CTO before the company was acquired by [Marti](https://marti.tech) in February 2024.
+Zoba, where I was founding engineer and CTO, was acquired by [Marti](https://marti.tech) in February 2024.
 
----
+## Projects
 
-## Technical Skills
+| Project | Notes |
+|---------|-------|
+| dpdap | Signed receipts and a black-box conformance probe for DP aggregate releases. Source private through v0.3. |
+| modelreceipt | Receipts for DP claims on trained models and synthetic data. Early. |
+| [cs227r_Final_Project](https://github.com/jdreben/cs227r_Final_Project) | DP-WHERE on Census data, final project for Cynthia Dwork's CS 227r at Harvard (2017). |
 
-### Languages
+## Links
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Runtimes
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-
-### AI & Machine Learning
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Infrastructure & SRE
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### CMS & Publishing
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WP Engine](https://img.shields.io/badge/WP_Engine-40BAC8?style=flat-square&logo=wordpress&logoColor=white)
-
----
-
-## Areas of Expertise
-
-### 🤖 AI & Machine Learning
-Built production ML systems predicting human movement patterns across cities — powering vehicle rebalancing and fleet optimization at scale. Studied reinforcement learning at Harvard. Applied AI and LLM tooling at multiple startups before it became fashionable.
-
-### ⚙️ Site Reliability Engineering
-Hands-on experience owning reliability across the full system lifecycle: designing fault-tolerant architectures, building observability pipelines, driving incident response, and leading post-mortem culture. Comfortable owning on-call rotations and capacity planning at scale.
-
-### 🌐 Full-Stack Web Development
-A decade of shipping production web applications across multiple stacks — from Hugo static sites and SvelteKit SPAs to Python backends and TypeScript APIs. Experience leading frontend architecture decisions, establishing CI/CD pipelines, and scaling systems under real production traffic.
-
-### 🚀 Startup Engineering
-Many times a startup engineer, once a CTO. Built from zero to revenue at Zoba. Contributed core infrastructure across revenue intelligence, virtual workspace, and AI application startups. Comfortable wearing many hats, moving fast, and making architectural decisions that don't paint the team into a corner.
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|------|-------------|-------|
-| [dpdap](https://jdreben.github.io/dpdap/) | Applied differential privacy work | Python · Rust |
-| [cs227r\_Final\_Project](https://github.com/jdreben/cs227r_Final_Project) | Harvard reinforcement learning final project | Python · R |
-| [AudioSuite](https://github.com/jdreben/AudioSuite) | Early audio processing application (~2014) | Java |
-
----
-
-## Currently
-
-- 🔴 Engineering at **Red Ventures**
-- 📖 Going deeper on **SvelteKit** and **Kotlin**
-- 🦣 Posting on the fediverse at [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben)
-- ✍️ Writing at [jdreben.omg.lol](https://jdreben.omg.lol)
-
----
-
-## Education
-
-🎓 **Harvard University** — Computer Science *(Class of 2017)*
-
-Coursework spanning machine learning, algorithms, reinforcement learning, and systems programming.
-
----
-
-## Find Me
-
-| Platform | Handle |
-|----------|--------|
-| 🏡 Home | [jdreben.omg.lol](https://jdreben.omg.lol) |
-| 🦣 Mastodon | [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben) |
-| 🦋 Bluesky | [@jdreben.omg.lol](https://bsky.app/profile/jdreben.omg.lol) |
-| 💼 LinkedIn | [linkedin.com/in/jamesdreben](https://www.linkedin.com/in/jamesdreben/) |
-| 💻 GitHub | [github.com/jdreben](https://github.com/jdreben) |
-
----
-
-<div align="center">
-
-*FOSS advocate &nbsp;·&nbsp; Star Trek fan &nbsp;·&nbsp; Cat person &nbsp;·&nbsp; San Juan, PR 🌴*
-
-*"The best code is no code. The second best is code worth reading."*
-
-</div>
+- Writing: [jdreben.github.io](https://jdreben.github.io)
+- Mastodon: [@Jdreben@mastodon.world](https://mastodon.world/@Jdreben)
+- Bluesky: [@jdreben.omg.lol](https://bsky.app/profile/jdreben.omg.lol)
+- LinkedIn: [jamesdreben](https://www.linkedin.com/in/jamesdreben/)
+- Home: [jdreben.omg.lol](https://jdreben.omg.lol)

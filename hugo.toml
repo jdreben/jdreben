@@ -10,8 +10,8 @@ copyright = "James Dreben"
 
 [params]
   author      = "James Dreben"
-  description = "Bitsmith. Bytewright. Codemonger. Software engineer in San Juan, PR."
-  tagline     = "Software developer · Startup evangelist · Aspiring writer · Lifelong student"
+  description = "Software engineer in San Juan, PR with experience across AI, SRE, and full-stack web development."
+  tagline     = "Harvard CS grad · Founder/CTO turned engineer · San Juan, PR"
   location    = "San Juan, Puerto Rico"
   github      = "https://github.com/jdreben"
   mastodon    = "https://mastodon.world/@Jdreben"
