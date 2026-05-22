@@ -2,7 +2,7 @@
 
 Software engineer in San Juan, PR. Harvard CS, class of 2017.
 
-Right now I'm researching differential privacy: what it would take to make DP claims on public data releases and trained models actually checkable from the outside. Two projects I'm working on in that direction are 1) signed receipts and a conformance probe for aggregate releases, and 2) the same idea applied to trained models and synthetic data. Both are early. Most recent writing on it: [Two numbers from VaultGemma](https://jdreben.github.io/writing/pre-registered-empirical-privacy/).
+Most recent writing: [Two numbers from VaultGemma](https://jdreben.github.io/writing/pre-registered-empirical-privacy/).
 
 Mostly Python, TypeScript, and Rust at the moment.
 
