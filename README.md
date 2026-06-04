@@ -10,6 +10,7 @@ Mostly Python, TypeScript, and Rust at the moment.
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
+| 2026 - present | Senior Associate | [ZetaMinusOne](http://zetaminusone.com) | AWS, full stack tech advisory & development, ML & data-science |
 | 2024 – 2026 | Software Engineer | Red Ventures | Education portfolio engineering, AWS, shared frontend platform |
 | 2023 – 2024 | Software Engineer | MVMNT | Freight TMS frontend, TypeScript, Svelte, Tailwind, AWS Cognito |
 | 2022 | Software Engineer | Pocus | PLG tooling, NestJS, Prisma, customer-facing APIs |
