@@ -2,15 +2,11 @@
 
 Software engineer in San Juan, PR. Harvard CS, class of 2017.
 
-Most recent writing: [Two numbers from VaultGemma](https://jdreben.github.io/writing/pre-registered-empirical-privacy/).
-
-Mostly Python, TypeScript, and Rust at the moment.
-
 ## Career
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
-| 2026 - present | Senior Associate | [ZetaMinusOne](http://zetaminusone.com) | AWS, full stack tech advisory & development, ML & data-science |
+| 2026 - present | Senior Associate | [ZetaMinusOne](http://zetaminusone.com) | AWS, full stack tech advisory & development, ML |
 | 2024 – 2026 | Software Engineer | Red Ventures | Education portfolio engineering, AWS, shared frontend platform |
 | 2023 – 2024 | Software Engineer | MVMNT | Freight TMS frontend, TypeScript, Svelte, Tailwind, AWS Cognito |
 | 2022 | Software Engineer | Pocus | PLG tooling, NestJS, Prisma, customer-facing APIs |
