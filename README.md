@@ -24,6 +24,7 @@ Zoba, where I was founding engineer and CTO, was acquired by [Marti](https://mar
 
 | Project | Notes |
 |---------|-------|
+| [aura-curativa](https://github.com/jdreben/aura-curativa) | Lowering the barrier for patients in Puerto Rico to get out of network medical treatment. |
 | dpdap | Signed receipts and a black-box conformance probe for DP aggregate releases. Source private through v0.3. |
 | modelreceipt | Receipts for DP claims on trained models and synthetic data. Early. |
 | [cs227r_Final_Project](https://github.com/jdreben/cs227r_Final_Project) | DP-WHERE on Census data, final project for Cynthia Dwork's CS 227r at Harvard (2017). |
